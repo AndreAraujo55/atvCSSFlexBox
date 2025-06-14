@@ -46,9 +46,10 @@ main{
     background-color: #ffffff;
     color: rgb(0, 0, 0);
 }
-main{
-    font-size: large;
+main h2{
+    font-size: x-large;
     margin-top: 50px;
+    text-align: center;
 }
 #fones{
     
